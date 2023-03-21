@@ -1,0 +1,14 @@
+.CountCircleTimer {
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.CountCircleTimer>div {
+    margin-right: 9px;
+}
+
+.time {
+    font-size: fit-content;
+}
